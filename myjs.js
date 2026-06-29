@@ -7,5 +7,5 @@ alert(0/0);
 alert(2+3);
 alert('2'+'3');
 alert(number('2')+number('3'));
-alert(2+'3');
+alert('2'+3);
 alert(number('2')+3);
