@@ -1,7 +1,7 @@
 alert('hello,ogawa　hayata!');
 alert(1+1);
 alert(Math.sqrt(1+1));
-alert(math.sprt(2)+math.sqrt(3));
+alert(math.sqrt(2) + math.sqrt(3));
 alert(1/0);
 alert(0/0);
 alert(2+3);
